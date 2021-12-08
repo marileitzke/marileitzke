@@ -1,5 +1,5 @@
-Oi oi! ༼ つ ◕_◕ ༽つ
-I’m @marileitzke, an english translator and programming lover, addicted in RPG and games in general.
+  <br>Oi oi! 👋<br>
+I’m @marileitzke, an english translator and programming lover, addicted in RPG and games in general. <br>
 I’m currently learning coding games in unreal engine and web development. Still in the very beginning tho 💩
 
 
