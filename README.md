@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @marileitzke
-- 👀 I’m interested in RPG and games in general.
-- 🌱 I’m currently learning web development.
+Oi oi! ༼ つ ◕_◕ ༽つ
+I’m @marileitzke, an english translator and programming lover, addicted in RPG and games in general.
+I’m currently learning coding games in unreal engine and web development. Still in the very beginning tho 💩
 
 
 <!---
