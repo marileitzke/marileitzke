@@ -1,6 +1,6 @@
   Oi oi! 👋<br>
 I’m <b>@marileitzke</b>, an english/portuguese translator and programming lover, addicted in RPG and games. <br>
-I’m currently learning web development. Still in the very beginning tho 💩
+
 
 
 <!---
