@@ -1,5 +1,7 @@
-  Oi oi! 👋<br>
-I’m <b>@marileitzke</b>, an english/portuguese translator and programming lover, addicted in RPG and games. <br>
+ # Oi! 👋<br>
+I’m <b>@marileitzke</b>, an english/portuguese translator. <br><br>
+Addicted in RPG :game_die: and games :video_game: <br><br>
+Studying front-end design, always improving! :rocket:
 
 
 
